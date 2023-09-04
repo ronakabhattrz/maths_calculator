@@ -1,0 +1,29 @@
+# Ignore bundler config.
+/.bundle
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# Ignore IDE or editor-specific files.
+.idea/
+.vscode/
+
+# Ignore Gem-related files.
+.bundle/
+/vendor/
+
+# Ignore documentation and coverage files.
+/doc/
+/coverage/
+
+# Ignore system-specific files.
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files.
+*.log
+*.swp
